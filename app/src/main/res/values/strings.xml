@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MonCVApp</string>
+    <string name="user_name">Anisse</string>
+    <string name="user_surname">Bouainbi</string>
+    <string name="user_email">anissbouainbi@hotmail.it</string>
+    <string name="user_adress">1 Allée Jan Masaryk</string>
+    <string name="user_phone">07 67 76 57 17</string>
+    <string name="experience">Expériences professionnelles</string>
+    <string name="formation">Formations</string>
+    <string name="experience_liste">Formations</string>
+    <string name="entrepirse">Entreprise</string>
+    <string name="date_debut">Date Debut</string>
+    <string name="date_fin">Date fin</string>
+    <string name="description">Description</string>
+    <string name="diplome">Nom du diplome </string>
+    <string name="lieu">Lieu</string>
+</resources>
